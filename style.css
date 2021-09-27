@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-style: italic;
+    font-size: 30px;
+  }
+  
+  div {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  
