@@ -1,17 +1,9 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    font-style: italic;
-    font-size: 30px;
-  }
-  
-  div {
-    margin: auto;
-    width: 500px;
-    height: 500px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-  
+body{
+  display: flex;
+  justify-content: center;
+  padding: 100px 80px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+  color:white;
+  background-image: url("indian\ flag.jpg");
+}
